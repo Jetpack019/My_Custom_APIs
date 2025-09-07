@@ -1,0 +1,26 @@
+[
+  {
+    "id": 1,
+    "title": "E-commerce App",
+    "description": "A full-stack e-commerce web application with cart, checkout, and admin dashboard.",
+    "tech": ["React", "Node.js", "Express", "MongoDB"],
+    "link": "https://github.com/yourusername/ecommerce-app",
+    "image": "https://yourcdn.com/images/ecommerce.png"
+  },
+  {
+    "id": 2,
+    "title": "Portfolio Website",
+    "description": "A responsive personal portfolio website showcasing projects and blogs.",
+    "tech": ["React", "TailwindCSS"],
+    "link": "https://yourportfolio.com",
+    "image": "https://yourcdn.com/images/portfolio.png"
+  },
+  {
+    "id": 3,
+    "title": "Task Manager App",
+    "description": "A simple task manager with authentication and drag-and-drop support.",
+    "tech": ["React", "Redux Toolkit", "Firebase"],
+    "link": "https://github.com/yourusername/task-manager",
+    "image": "https://yourcdn.com/images/taskmanager.png"
+  }
+]
