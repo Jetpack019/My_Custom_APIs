@@ -3,32 +3,32 @@
     {
       "id": 1,
       "title": "We Sort",
-      "img": "https://www.figma.com/design/nBZRkEhLg1P6dp4mA70bsf/WeSortMain?node-id=0-1&t=9KpNq6GbRAtataCN-0"
+      "img": "https://jdraws-online.vercel.app/assets/projectImg/Figma/WeSort.PNG"
     },
     {
       "id": 2,
       "title": "FestiFind",
-      "img": "https://www.figma.com/design/3p6hKinZglBxAPe2pGTnvg/FestiFindMain?node-id=0-1&t=0CIOQravS6cHIwVQ-0"
+      "img": "https://jdraws-online.vercel.app/assets/projectImg/Figma/FestiFind.PNG"
     },
     {
       "id": 3,
       "title": "Art Haven",
-      "img": "https://www.figma.com/file/J8Fi2gP6Il3umHZqoGkUpt/Art-Haven?type=design&node-id=0%3A1&mode=design&t=8QTscnJvWMdwM8LG-1"
+      "img": "https://jdraws-online.vercel.app/assets/projectImg/Figma/ArtHaven.PNG"
     },
     {
       "id": 4,
       "title": "Game Wave",
-      "img": "https://www.figma.com/design/oZQ0s4CrwPWc6boBcjzuqt/Game-Wave-?node-id=0-1"
+      "img": "https://jdraws-online.vercel.app/assets/projectImg/Figma/GameWave.PNG"
     },
     {
       "id": 5,
       "title": "iSafe",
-      "img": "https://www.figma.com/file/bwq9txMYoeaDa7zIxejd5h/iSafe?type=design&node-id=0%3A1&mode=design&t=ENBcDlEDOFdEN9f5-1"
+      "img": "https://jdraws-online.vercel.app/assets/projectImg/Figma/ISafe.PNG"
     },
     {
       "id": 6,
       "title": "Art Shop",
-      "img": "https://www.figma.com/file/RINIfYCuqFuyMjXFnsxpvm/Art-Shop?type=design&node-id=0%3A1&mode=design&t=WNoKQiVFsu3csgOV-1"
+      "img": "https://jdraws-online.vercel.app/assets/projectImg/Figma/ArtApp.PNG"
     }
   ],
   "Infographics": [
@@ -88,3 +88,4 @@
     }
   ]
 }
+
