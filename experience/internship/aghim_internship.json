@@ -1,8 +1,9 @@
 {
   "title": "Internshp in AghimJuan PH",
   "developed": [
-    {
-      "icon1": ""
-    }
-  ]
+    "https://github.com/Jetpack019/My_Custom_APIs/blob/main/experience/internship/icon_firebase.png",
+    "https://github.com/Jetpack019/My_Custom_APIs/blob/main/experience/internship/icon_flutter.png"
+  ],
+  "description": "Built a Flutter e-commerce app with Firebase backend for authentication, real-time database, and cloud storage.",
+  "images": [""]
 }
