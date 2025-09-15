@@ -1,11 +1,13 @@
 [
   {
+    "sm-image": "https://raw.githubusercontent.com/Jetpack019/My_Custom_APIs/main/experience/annotation-experience.png",
     "image": "https://jdraws-online.vercel.app/assets/aboutImg/experience/AghimJuan.png",
     "title": "Software Developer",
     "subtitle": "July 4, 2022 to August 16, 2022",
     "description": "I worked as a Flutter Developer for two months, contributing to the development of an e-commerce app called Relay. During this time, I gained hands-on experience in building cross-platform features and optimizing the app for better user performance."
   },
   {
+    "sm-image": "https://raw.githubusercontent.com/Jetpack019/My_Custom_APIs/main/experience/annotation-experience.png",
     "image": "https://jdraws-online.vercel.app/assets/expImg/Experience/RemotaskDataAnnotator/GorillaRendlake/spray3.PNG",
     "title": "Annotation Specialist",
     "subtitle": "September 15, 2023 to September 9, 2024",
@@ -13,12 +15,14 @@
   },
 
   {
+    "sm-image": "https://raw.githubusercontent.com/Jetpack019/My_Custom_APIs/main/experience/tech-experience.png",
     "image": "https://jdraws-online.vercel.app/assets/hardwareImg/hardware%20repair/replace-laptop-components/replace-1.jpg",
     "title": "Upgrade & Repair Basics",
     "subtitle": "2020 – Present",
     "description": "I have practical hands-on experience with hardware upgrades and basic repairs, primarily focused on maintaining and fixing my own devices. This experience has strengthened my troubleshooting skills and ability to improve system performance."
   },
   {
+    "sm-image": "https://jdraws-online.vercel.app/assets/projectImg/websites/cozywear_website.png",
     "image": "https://jdraws-online.vercel.app/assets/projectImg/websites/cozywear_website.png",
     "title": "Web Developer",
     "subtitle": "2021 – Present",
