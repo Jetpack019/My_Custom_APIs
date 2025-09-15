@@ -1,0 +1,21 @@
+{
+  "developed": [
+    "https://raw.githubusercontent.com/Jetpack019/My_Custom_APIs/main/experience/internship/icon_firebase.png",
+    "https://raw.githubusercontent.com/Jetpack019/My_Custom_APIs/main/experience/internship/icon_flutter.png"
+  ],
+  "description": "Gained hands-on experience in image, video, and sensor fusion annotation through freelance work with Outlier and Remotasks.",
+
+  "type": [
+    {
+      "id": 1,
+      "title": "Gorilla Rendlake",
+      "data_image": "https://raw.githubusercontent.com/Jetpack019/My_Custom_APIs/main/experience/internship/1.png",
+      "description": "In this project, we annotate 100 frames using bounding boxes to classify the visible and non-visible vehicle lights, as well as road signs entering the frame, aiding in distinguishing between vehicle lights and road sign illuminations.",
+      "images": [
+        "https://raw.githubusercontent.com/Jetpack019/My_Custom_APIs/main/experience/internship/1.png",
+        "https://raw.githubusercontent.com/Jetpack019/My_Custom_APIs/main/experience/internship/2.png",
+        "https://raw.githubusercontent.com/Jetpack019/My_Custom_APIs/main/experience/internship/3.png"
+      ]
+    }
+  ]
+}

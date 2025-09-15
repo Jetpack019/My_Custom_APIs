@@ -3,14 +3,14 @@
     "smimage": "https://raw.githubusercontent.com/Jetpack019/My_Custom_APIs/main/experience/intern-experience.png",
     "image": "https://jdraws-online.vercel.app/assets/aboutImg/experience/AghimJuan.png",
     "title": "Software Developer",
-    "subtitle": "July 4, 2022 to August 16, 2022",
+    "duration": "July 4, 2022 to August 16, 2022",
     "description": "I worked as a Flutter Developer for two months, contributing to the development of an e-commerce app called Relay. During this time, I gained hands-on experience in building cross-platform features and optimizing the app for better user performance."
   },
   {
     "smimage": "https://raw.githubusercontent.com/Jetpack019/My_Custom_APIs/main/experience/annotation-experience.png",
     "image": "https://jdraws-online.vercel.app/assets/expImg/Experience/RemotaskDataAnnotator/GorillaRendlake/spray3.PNG",
     "title": "Annotation Specialist",
-    "subtitle": "September 15, 2023 to September 9, 2024",
+    "duration": "September 15, 2023 to September 9, 2024",
     "description": "Worked as an Annotation Specialist for 1 year on Remotasks and Outlier, focusing on image, video, and sensor fusion projects. Contributed to high-quality data annotation and preparation, ensuring accuracy for AI and machine learning training."
   },
 
@@ -18,14 +18,14 @@
     "smimage": "https://raw.githubusercontent.com/Jetpack019/My_Custom_APIs/main/experience/tech-experience.png",
     "image": "https://jdraws-online.vercel.app/assets/hardwareImg/hardware%20repair/replace-laptop-components/replace-1.jpg",
     "title": "Upgrade & Repair Basics",
-    "subtitle": "2020 – Present",
+    "duration": "2020 – Present",
     "description": "I have practical hands-on experience with hardware upgrades and basic repairs, primarily focused on maintaining and fixing my own devices. This experience has strengthened my troubleshooting skills and ability to improve system performance."
   },
   {
     "smimage": "https://jdraws-online.vercel.app/assets/projectImg/websites/cozywear_website.png",
     "image": "https://jdraws-online.vercel.app/assets/projectImg/websites/cozywear_website.png",
     "title": "Web Developer",
-    "subtitle": "2021 – Present",
+    "duration": "2021 – Present",
     "description": "I have hands-on experience in web design and development, creating responsive layouts and functional websites from mockups. My focus is on building and implementing practical designs rather than animated UI/UX prototypes."
   }
 ]
