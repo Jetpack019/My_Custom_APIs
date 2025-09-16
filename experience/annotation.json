@@ -22,7 +22,7 @@
       "id": 2,
       "title": "Gorilla Rendlake/Spray Vision",
       "data_image": "https://raw.githubusercontent.com/Jetpack019/My_Custom_APIs/main/experience/internship/1.png",
-      "duration": "Image Annotation",
+      "type": "Image Annotation",
       "description1": "In this project, we annotate images using bounding boxes to identify whether they contain corn, other broadleaf plants, other grasses, volunteer corn, and soy, helping to assess the condition of the corn and differentiate between these various plant types.",
       "description2": "We apply bounding boxes to mark corn, soy, volunteer corn, broadleaf plants, and grasses in each image. This allows for accurate monitoring of crop health while separating corn from other surrounding vegetation.",
       "images": [
@@ -34,7 +34,7 @@
       "id": 3,
       "title": "Anteater 3D Road Irregularity",
       "data_image": "https://raw.githubusercontent.com/Jetpack019/My_Custom_APIs/main/experience/internship/1.png",
-      "duration": "Sensorfusion",
+      "type": "Sensorfusion",
       "description1": "In this project, we use Lidar Lite to annotate images in 200 frames, classifying road irregularities like manhole covers, bridge joints, speed bumps, potholes, and storm drains to pinpoint areas where the car might need to slow down.",
       "description2": "We annotate 200 frames of images using Lidar Lite to classify road irregularities such as manhole covers, bridge joints, speed bumps, potholes, and storm drains. This helps identify areas that may require a vehicle to reduce speed for safety.",
       "images": [
@@ -46,7 +46,7 @@
       "id": 4,
       "title": "Zebra Light Source Chunking/Sub Stitching",
       "data_image": "https://raw.githubusercontent.com/Jetpack019/My_Custom_APIs/main/experience/internship/1.png",
-      "duration": "Video Playback Annotation",
+      "type": "Video Playback Annotation",
       "description1": "In this project, we annotate 100 frames using bounding boxes to classify the visible and non-visible vehicle lights, as well as road signs entering the frame, aiding in distinguishing between vehicle lights and road sign illuminations.",
       "description2": "We annotate 100 frames with bounding boxes to classify both visible and non-visible vehicle lights, along with road signs entering the frame. This process helps differentiate vehicle lights from road sign illuminations for more accurate detection.",
       "images": [
