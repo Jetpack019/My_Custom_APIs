@@ -9,10 +9,6 @@
   ],
   "bg_image": "https://raw.githubusercontent.com/Jetpack019/My_Custom_APIs/main/experience/thesis/Respiratory_main.png",
   "images": [
-    "https://raw.githubusercontent.com/Jetpack019/My_Custom_APIs/main/experience/thesis/APP1.png",
-    "https://raw.githubusercontent.com/Jetpack019/My_Custom_APIs/main/experience/thesis/APP2.png",
-    "https://raw.githubusercontent.com/Jetpack019/My_Custom_APIs/main/experience/thesis/APP3.png",
-    "https://raw.githubusercontent.com/Jetpack019/My_Custom_APIs/main/experience/thesis/APP4.png",
     "https://raw.githubusercontent.com/Jetpack019/My_Custom_APIs/main/experience/thesis/1.jpg",
     "https://raw.githubusercontent.com/Jetpack019/My_Custom_APIs/main/experience/thesis/2.jpg",
     "https://raw.githubusercontent.com/Jetpack019/My_Custom_APIs/main/experience/thesis/3.jpg",
@@ -28,5 +24,11 @@
     "https://raw.githubusercontent.com/Jetpack019/My_Custom_APIs/main/experience/thesis/13.PNG",
     "https://raw.githubusercontent.com/Jetpack019/My_Custom_APIs/main/experience/thesis/14.PNG",
     "https://raw.githubusercontent.com/Jetpack019/My_Custom_APIs/main/experience/thesis/15.PNG"
+  ],
+  "images_device": [
+    "https://raw.githubusercontent.com/Jetpack019/My_Custom_APIs/main/experience/thesis/APP1.png",
+    "https://raw.githubusercontent.com/Jetpack019/My_Custom_APIs/main/experience/thesis/APP2.png",
+    "https://raw.githubusercontent.com/Jetpack019/My_Custom_APIs/main/experience/thesis/APP3.png",
+    "https://raw.githubusercontent.com/Jetpack019/My_Custom_APIs/main/experience/thesis/APP4.png"
   ]
 }
