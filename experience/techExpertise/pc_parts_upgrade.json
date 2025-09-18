@@ -1,0 +1,137 @@
+{
+  "pc1": {
+    "parts": [
+      {
+        "className": "container_cpu",
+        "imgSrc": "https://raw.githubusercontent.com/Jetpack019/My_Custom_APIs/main/experience/techExpertise/pc1/pc1_cpu.webp",
+        "description": "CPU: AMD Ryzen 5 5600G 6core 12threads"
+      },
+      {
+        "className": "container_motherboard",
+        "imgSrc": "https://raw.githubusercontent.com/Jetpack019/My_Custom_APIs/main/experience/techExpertise/pc1/pc1_mobo.webp",
+        "description": "Motherboard: MSI B450M-A PRO MAX V2"
+      },
+      {
+        "className": "container_gpu",
+        "imgSrc": "https://raw.githubusercontent.com/Jetpack019/My_Custom_APIs/main/experience/techExpertise/pc1/pc1_gpu.webp",
+        "description": "GPU: Galax GTX 1650 GDDR6"
+      },
+      {
+        "className": "container_ssd",
+        "imgSrc": "https://raw.githubusercontent.com/Jetpack019/My_Custom_APIs/main/experience/techExpertise/pc1/pc1_ssd.jpg",
+        "description": "SSD: Kingbank Nvme 512gb SSD"
+      },
+      {
+        "className": "container_ram",
+        "imgSrc": "https://raw.githubusercontent.com/Jetpack019/My_Custom_APIs/main/experience/techExpertise/pc1/pc1_ram.jpg",
+        "description": "RAM: 16gb Kingbank 2x8gb DDR4 3600Mhz"
+      },
+      {
+        "className": "container_psu",
+        "imgSrc": "https://raw.githubusercontent.com/Jetpack019/My_Custom_APIs/main/experience/techExpertise/pc1/pc1_psu.webp",
+        "description": "PSU: P500B Gigabyte 80+ bronze"
+      },
+      {
+        "className": "container_monitor",
+        "imgSrc": "https://raw.githubusercontent.com/Jetpack019/My_Custom_APIs/main/experience/techExpertise/pc1/pc1_monitor.png",
+        "description": "Monitor: Viewpoint 22” 75hz"
+      },
+      {
+        "className": "container_case",
+        "imgSrc": "https://raw.githubusercontent.com/Jetpack019/My_Custom_APIs/main/experience/techExpertise/pc1/pc1_case.png",
+        "description": "Case: CVS Robin Mini Tempered Casing W/x5 Rainbow Fans"
+      }
+    ],
+    "image": "https://raw.githubusercontent.com/Jetpack019/My_Custom_APIs/main/experience/techExpertise/pc1/main.png"
+  },
+  "pc1_upgrade": {
+    "parts": [
+      {
+        "className": "container_cpu",
+        "imgSrc": "https://raw.githubusercontent.com/Jetpack019/My_Custom_APIs/main/experience/techExpertise/upgrade_pc1/upgrade_pc1_cpu.webp",
+        "description": "CPU: AMD Ryzen 5 5600G 6core 12threads"
+      },
+      {
+        "className": "container_motherboard",
+        "imgSrc": "https://raw.githubusercontent.com/Jetpack019/My_Custom_APIs/main/experience/upgrade_pc1/upgrade_pc1_mobo.webp",
+        "description": "Motherboard: MSI B450M-A PRO MAX V2"
+      },
+      {
+        "className": "container_gpu",
+        "imgSrc": "https://raw.githubusercontent.com/Jetpack019/My_Custom_APIs/main/experience/techExpertise/upgrade_pc1/upgrade_pc1_gpu.webp",
+        "description": "GPU: ASUS Dual Radeon RX 6600 8GB GDDR6"
+      },
+      {
+        "className": "container_ssd",
+        "imgSrc": "https://raw.githubusercontent.com/Jetpack019/My_Custom_APIs/main/experience/techExpertise/upgrade_pc1/upgrade_pc1_ssd.webp",
+        "description": "SSD: Kingbank Nvme 512gb SSD"
+      },
+      {
+        "className": "container_ram",
+        "imgSrc": "https://raw.githubusercontent.com/Jetpack019/My_Custom_APIs/main/experience/techExpertise/upgrade_pc1/upgrade_pc1_ram.jpg",
+        "description": "RAM: 16gb Kingbank 2x8gb DDR4 3600Mhz"
+      },
+      {
+        "className": "container_psu",
+        "imgSrc": "https://raw.githubusercontent.com/Jetpack019/My_Custom_APIs/main/experience/techExpertise/upgrade_pc1/upgrade_pc1_psu.webp",
+        "description": "PSU: P500B Gigabyte 80+ bronze"
+      },
+      {
+        "className": "container_monitor",
+        "imgSrc": "https://raw.githubusercontent.com/Jetpack019/My_Custom_APIs/main/experience/techExpertise/upgrade_pc1/upgrade_pc1_monitor.jpeg",
+        "description": "Monitor: TITAN ARMY P27H2M 22” 100hz"
+      },
+      {
+        "className": "container_case",
+        "imgSrc": "https://raw.githubusercontent.com/Jetpack019/My_Custom_APIs/main/experience/techExpertise/upgrade_pc1/upgrade_pc1_case.png",
+        "description": "Case: CVS Robin Mini Tempered Casing W/x5 Rainbow Fans"
+      }
+    ],
+    "image": "https://raw.githubusercontent.com/Jetpack019/My_Custom_APIs/main/experience/techExpertise/upgrade_pc1/main.png"
+  },
+  "pc2": {
+    "parts": [
+      {
+        "className": "container_cpu",
+        "imgSrc": "https://raw.githubusercontent.com/Jetpack019/My_Custom_APIs/main/experience/techExpertise/pc2/pc2_cpu.webp",
+        "description": "CPU: AMD Ryzen 5 4500 6core 12threads"
+      },
+      {
+        "className": "container_motherboard",
+        "imgSrc": "https://raw.githubusercontent.com/Jetpack019/My_Custom_APIs/main/experience/techExpertise/pc2/pc2_mobo.webp",
+        "description": "Motherboard: Gigabyte B550M AORUS ELITE"
+      },
+      {
+        "className": "container_gpu",
+        "imgSrc": "https://raw.githubusercontent.com/Jetpack019/My_Custom_APIs/main/experience/techExpertise/pc2/pc2_gpu.webp",
+        "description": "GPU: Galax GTX 1650 GDDR6"
+      },
+      {
+        "className": "container_ssd",
+        "imgSrc": "https://raw.githubusercontent.com/Jetpack019/My_Custom_APIs/main/experience/techExpertise/pc2/pc2_ssd.jpg",
+        "description": "SSD: Kingston Nvme 512gb SSD"
+      },
+      {
+        "className": "container_ram",
+        "imgSrc": "https://raw.githubusercontent.com/Jetpack019/My_Custom_APIs/main/experience/techExpertise/pc2/pc2_ram.jpg",
+        "description": "RAM: 16gb Kingston 2x8gb DDR4 3200Mhz"
+      },
+      {
+        "className": "container_psu",
+        "imgSrc": "https://raw.githubusercontent.com/Jetpack019/My_Custom_APIs/main/experience/techExpertise/pc2/pc2_psu.webp",
+        "description": "PSU: Corsair CX550 80+ bronze"
+      },
+      {
+        "className": "container_monitor",
+        "imgSrc": "https://raw.githubusercontent.com/Jetpack019/My_Custom_APIs/main/experience/techExpertise/pc2/pc2_monitor.webp",
+        "description": "Monitor: IPASON Monitor E22266A-J 21.5” 75hz"
+      },
+      {
+        "className": "container_case",
+        "imgSrc": "https://raw.githubusercontent.com/Jetpack019/My_Custom_APIs/main/experience/techExpertise/pc2/pc2_case.jpeg",
+        "description": "Case: YGT M7 Black White"
+      }
+    ],
+    "image": "https://raw.githubusercontent.com/Jetpack019/My_Custom_APIs/main/experience/techExpertise/pc2/main.jpg"
+  }
+}
