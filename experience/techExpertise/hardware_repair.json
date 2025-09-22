@@ -1,0 +1,40 @@
+[
+  {
+    "id": 1,
+    "title": "Basic Smartphone Parts Replacement",
+    "description": "I often repair my laptop by watching instructional videos and reading forums or articles for guidance on proper techniques. I also rely on advice from experienced users to ensure I'm following the best practices. Over time, this approach has helped me become more confident in handling various repairs on my own.",
+    "img": [
+      "https://raw.githubusercontent.com/Jetpack019/My_Custom_APIs/main/experience/techExpertise/hardware%20repair/cp-replace-parts/cp-replace-1.jpg",
+      "https://raw.githubusercontent.com/Jetpack019/My_Custom_APIs/main/experience/techExpertise/hardware%20repair/cp-replace-parts/cp-replace-2.jpg",
+      "https://raw.githubusercontent.com/Jetpack019/My_Custom_APIs/main/experience/techExpertise/hardware%20repair/cp-replace-parts/cp-replace-3.jpg"
+    ]
+  },
+  {
+    "id": 2,
+    "title": "Printer Troubleshooting",
+    "description": "I usually handle basic printer troubleshooting by watching tutorial videos and reading forums or articles for step-by-step guidance. Learning from the experiences of others helps me resolve common issues effectively.",
+    "img": [
+      "https://raw.githubusercontent.com/Jetpack019/My_Custom_APIs/main/experience/techExpertise/hardware%20repair/printer-troubleshoot/print-1.jpg",
+      "https://raw.githubusercontent.com/Jetpack019/My_Custom_APIs/main/experience/techExpertise/hardware%20repair/printer-troubleshoot/print-2.jpg",
+      "https://raw.githubusercontent.com/Jetpack019/My_Custom_APIs/main/experience/techExpertise/hardware%20repair/printer-troubleshoot/print-3.jpg"
+    ]
+  },
+  {
+    "id": 3,
+    "title": "Laptop Component Upgrade",
+    "description": "I typically replace laptop parts like RAM and SSDs by following instructional videos and reading online guides. This approach ensures that I install the components correctly and avoid potential issues.",
+    "img": [
+      "https://raw.githubusercontent.com/Jetpack019/My_Custom_APIs/main/experience/techExpertise//hardware%20repair/laptop%20parts%20upgrade/laptop-upgrade.jpg"
+    ]
+  },
+  {
+    "id": 4,
+    "title": "Replacing damaged laptop parts",
+    "description": "I often repair my laptop by watching instructional videos and reading forums or articles for guidance on proper techniques. I also rely on advice from experienced users to ensure I'm following the best practices. Over time, this approach has helped me become more confident in handling various repairs on my own.",
+    "img": [
+      "https://raw.githubusercontent.com/Jetpack019/My_Custom_APIs/main/experience/techExpertise/hardware%20repair/replace-laptop-components/replace-1.jpg",
+      "https://raw.githubusercontent.com/Jetpack019/My_Custom_APIs/main/experience/techExpertise/hardware%20repair/replace-laptop-components/replace-2.jpg",
+      "https://raw.githubusercontent.com/Jetpack019/My_Custom_APIs/main/experience/techExpertise/hardware%20repair/replace-laptop-components/replace-3.jpg"
+    ]
+  }
+]
