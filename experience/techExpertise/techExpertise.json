@@ -2,19 +2,19 @@
   {
     "id": 1,
     "title": "PC Build / Upgrade",
-    "image": "https://via.placeholder.com/150",
+    "image": "https://raw.githubusercontent.com/Jetpack019/My_Custom_APIs/main/experience/techExpertise/techExpertise_image1.jpg",
     "description": "Custom PC builds and upgrade services for performance and efficiency."
   },
   {
     "id": 2,
     "title": "Repair",
-    "image": "https://via.placeholder.com/150",
+    "image": "https://raw.githubusercontent.com/Jetpack019/My_Custom_APIs/main/experience/techExpertise/techExpertise_image2.jpg",
     "description": "Comprehensive repair solutions for desktops, laptops, and peripherals."
   },
   {
     "id": 3,
     "title": "Troubleshooting",
-    "image": "https://via.placeholder.com/150",
+    "image": "https://raw.githubusercontent.com/Jetpack019/My_Custom_APIs/main/experience/techExpertise/techExpertise_image3.jpg",
     "description": "Quick and accurate troubleshooting to resolve software and hardware issues."
   }
 ]
