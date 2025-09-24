@@ -26,8 +26,6 @@
     "title": "Laptop Component Upgrade",
     "description": "I typically replace laptop parts like RAM and SSDs by following instructional videos and reading online guides. This approach ensures that I install the components correctly and avoid potential issues.",
     "img": [
-      "https://raw.githubusercontent.com/Jetpack019/My_Custom_APIs/main/experience/techExpertise/hardware%20repair/laptop%20parts%20upgrade/laptop-upgrade.jpg",
-      "https://raw.githubusercontent.com/Jetpack019/My_Custom_APIs/main/experience/techExpertise/hardware%20repair/laptop%20parts%20upgrade/laptop-upgrade.jpg",
       "https://raw.githubusercontent.com/Jetpack019/My_Custom_APIs/main/experience/techExpertise/hardware%20repair/laptop%20parts%20upgrade/laptop-upgrade.jpg"
     ],
     "icon": "<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"24\" height=\"24\" viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\" class=\"lucide lucide-laptop-minimal-check-icon lucide-laptop-minimal-check\"><path d=\"M2 20h20\"/><path d=\"m9 10 2 2 4-4\"/><rect x=\"3\" y=\"4\" width=\"18\" height=\"12\" rx=\"2\"/></svg>"
