@@ -14,8 +14,8 @@
       "description1": "In this project, we label food items using bounding boxes and polygons, categorizing each item based on its taxonomy as either a food, beverage, or non-food.",
       "description2": "In Bumblebees food annotation project, we label food items in images using bounding boxes or polygons and classify them as food, beverage, or non-food. This helps train AI models for food recognition, retail automation, and nutrition analysis.",
       "images": [
-        "https://raw.githubusercontent.com/Jetpack019/My_Custom_APIs/main/experience/RemotaskDataAnnotator/Bumblebees/bumblebee2.PNG",
-        "https://raw.githubusercontent.com/Jetpack019/My_Custom_APIs/main/experience/RemotaskDataAnnotator/Bumblebees/bumblebee3.PNG"
+        "https://raw.githubusercontent.com/Jetpack019/My_Custom_APIs/main/experience/RemotaskDataAnnotator/Bumblebees/bumblebee2.jpg",
+        "https://raw.githubusercontent.com/Jetpack019/My_Custom_APIs/main/experience/RemotaskDataAnnotator/Bumblebees/bumblebee3.jpg"
       ]
     },
     {
