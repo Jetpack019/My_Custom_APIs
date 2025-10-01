@@ -9,49 +9,49 @@
     {
       "id": 1,
       "title": "Bumblebees",
-      "data_image": "https://raw.githubusercontent.com/Jetpack019/My_Custom_APIs/main/experience/internship/1.png",
+      "data_image": "https://raw.githubusercontent.com/Jetpack019/My_Custom_APIs/main/experience/RemotaskDataAnnotator/Bumblebees/bumblebee1.PNG",
       "category": "Image Annotation",
       "description1": "In this project, we label food items using bounding boxes and polygons, categorizing each item based on its taxonomy as either a food, beverage, or non-food.",
       "description2": "In Bumblebees food annotation project, we label food items in images using bounding boxes or polygons and classify them as food, beverage, or non-food. This helps train AI models for food recognition, retail automation, and nutrition analysis.",
       "images": [
-        "https://raw.githubusercontent.com/Jetpack019/My_Custom_APIs/main/experience/internship/1.png",
-        "https://raw.githubusercontent.com/Jetpack019/My_Custom_APIs/main/experience/internship/2.png"
+        "https://raw.githubusercontent.com/Jetpack019/My_Custom_APIs/main/experience/RemotaskDataAnnotator/Bumblebees/bumblebee2.PNG",
+        "https://raw.githubusercontent.com/Jetpack019/My_Custom_APIs/main/experience/RemotaskDataAnnotator/Bumblebees/bumblebee3.PNG"
       ]
     },
     {
       "id": 2,
       "title": "Gorilla Rendlake/Spray Vision",
-      "data_image": "https://raw.githubusercontent.com/Jetpack019/My_Custom_APIs/main/experience/internship/1.png",
+      "data_image": "https://raw.githubusercontent.com/Jetpack019/My_Custom_APIs/main/experience/RemotaskDataAnnotator/GorillaRendlake/spray1.PNG",
       "category": "Image Annotation",
       "description1": "In this project, we annotate images using bounding boxes to identify whether they contain corn, other broadleaf plants, other grasses, volunteer corn, and soy, helping to assess the condition of the corn and differentiate between these various plant categorys.",
       "description2": "We apply bounding boxes to mark corn, soy, volunteer corn, broadleaf plants, and grasses in each image. This allows for accurate monitoring of crop health while separating corn from other surrounding vegetation.",
       "images": [
-        "https://raw.githubusercontent.com/Jetpack019/My_Custom_APIs/main/experience/internship/1.png",
-        "https://raw.githubusercontent.com/Jetpack019/My_Custom_APIs/main/experience/internship/2.png"
+        "https://raw.githubusercontent.com/Jetpack019/My_Custom_APIs/main/experience/RemotaskDataAnnotator/GorillaRendlake/spray2.PNG",
+        "https://raw.githubusercontent.com/Jetpack019/My_Custom_APIs/main/experience/RemotaskDataAnnotator/GorillaRendlake/spray3.PNG"
       ]
     },
     {
       "id": 3,
       "title": "Anteater 3D Road Irregularity",
-      "data_image": "https://raw.githubusercontent.com/Jetpack019/My_Custom_APIs/main/experience/internship/1.png",
+      "data_image": "https://raw.githubusercontent.com/Jetpack019/My_Custom_APIs/main/experience/RemotaskDataAnnotator/AnteaterRoadIrregularities/ant2.PNG",
       "category": "Sensorfusion",
       "description1": "In this project, we use Lidar Lite to annotate images in 200 frames, classifying road irregularities like manhole covers, bridge joints, speed bumps, potholes, and storm drains to pinpoint areas where the car might need to slow down.",
       "description2": "We annotate 200 frames of images using Lidar Lite to classify road irregularities such as manhole covers, bridge joints, speed bumps, potholes, and storm drains. This helps identify areas that may require a vehicle to reduce speed for safety.",
       "images": [
-        "https://raw.githubusercontent.com/Jetpack019/My_Custom_APIs/main/experience/internship/1.png",
-        "https://raw.githubusercontent.com/Jetpack019/My_Custom_APIs/main/experience/internship/2.png"
+        "https://raw.githubusercontent.com/Jetpack019/My_Custom_APIs/main/experience/internship/RemotaskDataAnnotator/AnteaterRoadIrregularities/ant1.PNG",
+        "https://raw.githubusercontent.com/Jetpack019/My_Custom_APIs/main/experience/internship/RemotaskDataAnnotator/AnteaterRoadIrregularities/ant3.PNG"
       ]
     },
     {
       "id": 4,
       "title": "Zebra Light Source Chunking/Sub Stitching",
-      "data_image": "https://raw.githubusercontent.com/Jetpack019/My_Custom_APIs/main/experience/internship/1.png",
+      "data_image": "https://raw.githubusercontent.com/Jetpack019/My_Custom_APIs/main/experience/RemotaskDataAnnotator/ZebraLightHouse/zebra1.PNG",
       "category": "Video Playback Annotation",
       "description1": "In this project, we annotate 100 frames using bounding boxes to classify the visible and non-visible vehicle lights, as well as road signs entering the frame, aiding in distinguishing between vehicle lights and road sign illuminations.",
       "description2": "We annotate 100 frames with bounding boxes to classify both visible and non-visible vehicle lights, along with road signs entering the frame. This process helps differentiate vehicle lights from road sign illuminations for more accurate detection.",
       "images": [
-        "https://raw.githubusercontent.com/Jetpack019/My_Custom_APIs/main/experience/internship/1.png",
-        "https://raw.githubusercontent.com/Jetpack019/My_Custom_APIs/main/experience/internship/2.png"
+        "https://raw.githubusercontent.com/Jetpack019/My_Custom_APIs/main/experience/RemotaskDataAnnotator/ZebraLightHouse/zebra2.PNG",
+        "https://raw.githubusercontent.com/Jetpack019/My_Custom_APIs/main/experience/RemotaskDataAnnotator/ZebraLightHouse/zebra3.PNG"
       ]
     }
   ]
