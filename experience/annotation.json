@@ -38,8 +38,8 @@
       "description1": "In this project, we use Lidar Lite to annotate images in 200 frames, classifying road irregularities like manhole covers, bridge joints, speed bumps, potholes, and storm drains to pinpoint areas where the car might need to slow down.",
       "description2": "We annotate 200 frames of images using Lidar Lite to classify road irregularities such as manhole covers, bridge joints, speed bumps, potholes, and storm drains. This helps identify areas that may require a vehicle to reduce speed for safety.",
       "images": [
-        "https://raw.githubusercontent.com/Jetpack019/My_Custom_APIs/main/experience/internship/RemotaskDataAnnotator/AnteaterRoadIrregularities/ant1.PNG",
-        "https://raw.githubusercontent.com/Jetpack019/My_Custom_APIs/main/experience/internship/RemotaskDataAnnotator/AnteaterRoadIrregularities/ant3.PNG"
+        "https://raw.githubusercontent.com/Jetpack019/My_Custom_APIs/main/experience/RemotaskDataAnnotator/AnteaterRoadIrregularities/ant1.PNG",
+        "https://raw.githubusercontent.com/Jetpack019/My_Custom_APIs/main/experience/RemotaskDataAnnotator/AnteaterRoadIrregularities/ant3.PNG"
       ]
     },
     {
