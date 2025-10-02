@@ -14,9 +14,18 @@
       ],
       "link": "https://github.com/yourusername/ecommerce-app",
       "images": [
-        "https://raw.githubusercontent.com/Jetpack019/My_Custom_APIs/main/projects/primeplay1.png",
-        "https://raw.githubusercontent.com/Jetpack019/My_Custom_APIs/main/projects/primeplay2.png",
-        "https://raw.githubusercontent.com/Jetpack019/My_Custom_APIs/main/projects/primeplay3.png"
+        "https://raw.githubusercontent.com/Jetpack019/My_Custom_APIs/refs/heads/main/projects/primeplay/main.png",
+        "https://raw.githubusercontent.com/Jetpack019/My_Custom_APIs/refs/heads/main/projects/primeplay/project1.png",
+        "https://raw.githubusercontent.com/Jetpack019/My_Custom_APIs/refs/heads/main/projects/primeplay/project2.png",
+        "https://raw.githubusercontent.com/Jetpack019/My_Custom_APIs/refs/heads/main/projects/primeplay/project3.png",
+        "https://raw.githubusercontent.com/Jetpack019/My_Custom_APIs/refs/heads/main/projects/primeplay/project4.png",
+        "https://raw.githubusercontent.com/Jetpack019/My_Custom_APIs/refs/heads/main/projects/primeplay/project5.png",
+        "https://raw.githubusercontent.com/Jetpack019/My_Custom_APIs/refs/heads/main/projects/primeplay/project6.png",
+        "https://raw.githubusercontent.com/Jetpack019/My_Custom_APIs/refs/heads/main/projects/primeplay/project7.png",
+        "https://raw.githubusercontent.com/Jetpack019/My_Custom_APIs/refs/heads/main/projects/primeplay/project8.png",
+        "https://raw.githubusercontent.com/Jetpack019/My_Custom_APIs/refs/heads/main/projects/primeplay/project9.png",
+        "https://raw.githubusercontent.com/Jetpack019/My_Custom_APIs/refs/heads/main/projects/primeplay/project10.png",
+        "https://raw.githubusercontent.com/Jetpack019/My_Custom_APIs/refs/heads/main/projects/primeplay/project11.png"
       ]
     },
     {
