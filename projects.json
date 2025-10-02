@@ -13,9 +13,11 @@
         "NeonDB"
       ],
       "link": "https://github.com/yourusername/ecommerce-app",
-      "image1": "https://raw.githubusercontent.com/Jetpack019/My_Custom_APIs/main/projects/primeplay1.png",
-      "image2": "https://raw.githubusercontent.com/Jetpack019/My_Custom_APIs/main/projects/primeplay2.png",
-      "image3": "https://raw.githubusercontent.com/Jetpack019/My_Custom_APIs/main/projects/primeplay3.png"
+      "images": [
+        "https://raw.githubusercontent.com/Jetpack019/My_Custom_APIs/main/projects/primeplay1.png",
+        "https://raw.githubusercontent.com/Jetpack019/My_Custom_APIs/main/projects/primeplay2.png",
+        "https://raw.githubusercontent.com/Jetpack019/My_Custom_APIs/main/projects/primeplay3.png"
+      ]
     },
     {
       "id": 2,
@@ -23,9 +25,11 @@
       "description": "A website for game forums and streams.",
       "tech": ["React", "TailwindCSS", "Firebase", "Express"],
       "link": "https://yourportfolio.com",
-      "image1": "https://yourcdn.com/images/portfolio.png",
-      "image2": "https://yourcdn.com/images/portfolio.png",
-      "image3": "https://yourcdn.com/images/portfolio.png"
+      "images": [
+        "https://yourcdn.com/images/portfolio.png",
+        "https://yourcdn.com/images/portfolio.png",
+        "https://yourcdn.com/images/portfolio.png"
+      ]
     },
     {
       "id": 3,
@@ -33,9 +37,11 @@
       "description": "A website for a construction company showcasing services and projects.",
       "tech": ["React", "TailwindCSS"],
       "link": "https://github.com/yourusername/task-manager",
-      "image1": "https://yourcdn.com/images/taskmanager.png",
-      "image2": "https://yourcdn.com/images/taskmanager.png",
-      "image3": "https://yourcdn.com/images/taskmanager.png"
+      "images": [
+        "https://yourcdn.com/images/taskmanager.png",
+        "https://yourcdn.com/images/taskmanager.png",
+        "https://yourcdn.com/images/taskmanager.png"
+      ]
     },
     {
       "id": 4,
@@ -43,9 +49,11 @@
       "description": "A website for a clothing brand showcasing products and collections.",
       "tech": ["React", "CSS", "Bootstrap"],
       "link": "https://jdraws-online.vercel.app/assets/projectImg/websites/cozywear_website.png",
-      "image1": "https://yourcdn.com/images/taskmanager.png",
-      "image2": "https://yourcdn.com/images/taskmanager.png",
-      "image3": "https://yourcdn.com/images/taskmanager.png"
+      "images": [
+        "https://yourcdn.com/images/taskmanager.png",
+        "https://yourcdn.com/images/taskmanager.png",
+        "https://yourcdn.com/images/taskmanager.png"
+      ]
     },
     {
       "id": 5,
@@ -53,9 +61,11 @@
       "description": "A website for a guitar store showcasing products and lessons.",
       "tech": ["React", "CSS", "Bootstrap"],
       "link": "https://github.com/yourusername/guitar-play-central",
-      "image1": "https://jdraws-online.vercel.app/assets/projectImg/websites/Guitar-bg.PNG",
-      "image2": "https://yourcdn.com/images/guitarplaycentral.png",
-      "image3": "https://yourcdn.com/images/guitarplaycentral.png"
+      "images": [
+        "https://jdraws-online.vercel.app/assets/projectImg/websites/Guitar-bg.PNG",
+        "https://yourcdn.com/images/guitarplaycentral.png",
+        "https://yourcdn.com/images/guitarplaycentral.png"
+      ]
     },
     {
       "id": 6,
@@ -63,9 +73,11 @@
       "description": "A static website for an art gallery showcasing artworks and exhibitions.",
       "tech": ["Vanilla JS", "HTML", "CSS"],
       "link": "https://github.com/yourusername/art-haven",
-      "image1": "https://jdraws-online.vercel.app/assets/projectImg/websites/Website1.png",
-      "image2": "https://yourcdn.com/images/arthaven.png",
-      "image3": "https://yourcdn.com/images/arthaven.png"
+      "images": [
+        "https://jdraws-online.vercel.app/assets/projectImg/websites/Website1.png",
+        "https://yourcdn.com/images/arthaven.png",
+        "https://yourcdn.com/images/arthaven.png"
+      ]
     },
     {
       "id": 7,
@@ -73,9 +85,11 @@
       "description": "A static website finding restaurants and food places.",
       "tech": ["Vanilla JS", "HTML", "CSS"],
       "link": "https://github.com/yourusername/food-finder",
-      "image1": "https://jdraws-online.vercel.app/assets/projectImg/websites/FoodFinder_Website.png",
-      "image2": "https://yourcdn.com/images/foodfinder.png",
-      "image3": "https://yourcdn.com/images/foodfinder.png"
+      "images": [
+        "https://jdraws-online.vercel.app/assets/projectImg/websites/FoodFinder_Website.png",
+        "https://yourcdn.com/images/foodfinder.png",
+        "https://yourcdn.com/images/foodfinder.png"
+      ]
     },
     {
       "id": 8,
@@ -83,9 +97,11 @@
       "description": "A static website for a restaurant showcasing menu and reservations.",
       "tech": ["Vanilla JS", "HTML", "CSS"],
       "link": "https://github.com/yourusername/happy-eat-in",
-      "image1": "https://jdraws-online.vercel.app/assets/projectImg/websites/HappyEatIn_website.png",
-      "image2": "https://jdraws-online.vercel.app/assets/projectImg/websites/HappyEatIn_website.png",
-      "image3": "https://jdraws-online.vercel.app/assets/projectImg/websites/HappyEatIn_website.png"
+      "images": [
+        "https://jdraws-online.vercel.app/assets/projectImg/websites/HappyEatIn_website.png",
+        "https://jdraws-online.vercel.app/assets/projectImg/websites/HappyEatIn_website.png",
+        "https://jdraws-online.vercel.app/assets/projectImg/websites/HappyEatIn_website.png"
+      ]
     },
     {
       "id": 9,
@@ -93,9 +109,11 @@
       "description": "A landing page for art products and services.",
       "tech": ["Vanilla JS", "HTML", "CSS"],
       "link": "https://github.com/yourusername/creative-constructs",
-      "image1": "https://jdraws-online.vercel.app/assets/projectImg/websites/Creative_Constructs_website.PNG",
-      "image2": "https://yourcdn.com/images/creative.png",
-      "image3": "https://yourcdn.com/images/creative.png"
+      "images": [
+        "https://jdraws-online.vercel.app/assets/projectImg/websites/Creative_Constructs_website.PNG",
+        "https://yourcdn.com/images/creative.png",
+        "https://yourcdn.com/images/creative.png"
+      ]
     },
     {
       "id": 10,
@@ -103,9 +121,11 @@
       "description": "A static website of one piece forums and news",
       "tech": ["Vanilla JS", "HTML", "CSS"],
       "link": "https://github.com/yourusername/creative-constructs",
-      "image1": "https://jdraws-online.vercel.app/assets/projectImg/websites/OnePiece_website.png",
-      "image2": "https://yourcdn.com/images/creative.png",
-      "image3": "https://yourcdn.com/images/creative.png"
+      "images": [
+        "https://jdraws-online.vercel.app/assets/projectImg/websites/OnePiece_website.png",
+        "https://yourcdn.com/images/creative.png",
+        "https://yourcdn.com/images/creative.png"
+      ]
     }
   ],
   "mobile": [
@@ -115,9 +135,11 @@
       "description": "A mobile app for cyclist emergncy tracking via use of sensor and google maps",
       "tech": ["Android", "Java", "Firebase", "Google Maps"],
       "link": "https://github.com/yourusername/task-tracker",
-      "image1": "https://jdraws-online.vercel.app/assets/projectImg/mobile%20App/Sikligtas_FrontEnd.png",
-      "image2": "https://yourcdn.com/images/tasktracker.png",
-      "image3": "https://yourcdn.com/images/tasktracker.png"
+      "images": [
+        "https://jdraws-online.vercel.app/assets/projectImg/mobile%20App/Sikligtas_FrontEnd.png",
+        "https://yourcdn.com/images/tasktracker.png",
+        "https://yourcdn.com/images/tasktracker.png"
+      ]
     },
     {
       "id": 2,
@@ -125,9 +147,11 @@
       "description": "An app to alarm the for petting their pets",
       "tech": ["Android", "Java"],
       "link": "https://github.com/yourusername/fitlife",
-      "image1": "https://jdraws-online.vercel.app/assets/projectImg/mobile%20App/PetTime.png",
-      "image2": "https://yourcdn.com/images/fitlife.png",
-      "image3": "https://yourcdn.com/images/fitlife.png"
+      "images": [
+        "https://jdraws-online.vercel.app/assets/projectImg/mobile%20App/PetTime.png",
+        "https://yourcdn.com/images/fitlife.png",
+        "https://yourcdn.com/images/fitlife.png"
+      ]
     },
     {
       "id": 3,
@@ -135,9 +159,11 @@
       "description": "A pokemon battle app like ",
       "tech": ["Android", "Java"],
       "link": "https://github.com/yourusername/budget-buddy",
-      "image1": "https://jdraws-online.vercel.app/assets/projectImg/mobile%20App/BattleMonsters.png",
-      "image2": "https://yourcdn.com/images/budgetbuddy.png",
-      "image3": "https://yourcdn.com/images/budgetbuddy.png"
+      "images": [
+        "https://jdraws-online.vercel.app/assets/projectImg/mobile%20App/BattleMonsters.png",
+        "https://yourcdn.com/images/budgetbuddy.png",
+        "https://yourcdn.com/images/budgetbuddy.png"
+      ]
     },
     {
       "id": 4,
@@ -145,9 +171,11 @@
       "description": "A food delivery app connecting users with local restaurants.",
       "tech": ["Flutter", "Firebase"],
       "link": "https://github.com/yourusername/studymate",
-      "image1": "https://jdraws-online.vercel.app/assets/projectImg/mobile%20App/Relay.png",
-      "image2": "https://yourcdn.com/images/studymate.png",
-      "image3": "https://yourcdn.com/images/studymate.png"
+      "images": [
+        "https://jdraws-online.vercel.app/assets/projectImg/mobile%20App/Relay.png",
+        "https://yourcdn.com/images/studymate.png",
+        "https://yourcdn.com/images/studymate.png"
+      ]
     },
     {
       "id": 5,
@@ -155,9 +183,11 @@
       "description": "An ecommerce mobile application that showcase cycling products and outfits",
       "tech": ["Flutter"],
       "link": "https://github.com/yourusername/travelease",
-      "image1": "https://jdraws-online.vercel.app/assets/projectImg/mobile%20App/Ride_n_Roll_img.png",
-      "image2": "https://yourcdn.com/images/travelease.png",
-      "image3": "https://yourcdn.com/images/travelease.png"
+      "images": [
+        "https://jdraws-online.vercel.app/assets/projectImg/mobile%20App/Ride_n_Roll_img.png",
+        "https://yourcdn.com/images/travelease.png",
+        "https://yourcdn.com/images/travelease.png"
+      ]
     },
     {
       "id": 6,
@@ -165,9 +195,11 @@
       "description": "An instagram clone featured for pets",
       "tech": ["Flutter"],
       "link": "https://github.com/yourusername/foodie-express",
-      "image1": "https://jdraws-online.vercel.app/assets/projectImg/mobile%20App/Pawstagram_img.png",
-      "image2": "https://yourcdn.com/images/foodieexpress.png",
-      "image3": "https://yourcdn.com/images/foodieexpress.png"
+      "images": [
+        "https://jdraws-online.vercel.app/assets/projectImg/mobile%20App/Pawstagram_img.png",
+        "https://yourcdn.com/images/foodieexpress.png",
+        "https://yourcdn.com/images/foodieexpress.png"
+      ]
     },
     {
       "id": 7,
@@ -175,9 +207,11 @@
       "description": "A mobile application for detecting the user vital signs via Bluetooth BLE",
       "tech": ["MIT App"],
       "link": "https://github.com/yourusername/medicare",
-      "image1": "https://jdraws-online.vercel.app/assets/projectImg/mobile%20App/Respiratory%20Diagnostic%20App.png",
-      "image2": "https://yourcdn.com/images/medicare.png",
-      "image3": "https://yourcdn.com/images/medicare.png"
+      "images": [
+        "https://jdraws-online.vercel.app/assets/projectImg/mobile%20App/Respiratory%20Diagnostic%20App.png",
+        "https://yourcdn.com/images/medicare.png",
+        "https://yourcdn.com/images/medicare.png"
+      ]
     }
   ]
 }
