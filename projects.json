@@ -124,9 +124,9 @@
       "tech": ["Vanilla JS", "HTML", "CSS"],
       "link": "https://github.com/yourusername/art-haven",
       "images": [
-        "https://jdraws-online.vercel.app/assets/projectImg/websites/Website1.png",
-        "https://yourcdn.com/images/arthaven.png",
-        "https://yourcdn.com/images/arthaven.png"
+        "https://raw.githubusercontent.com/Jetpack019/My_Custom_APIs/refs/heads/main/projects/arthaven/Website1.png",
+        "https://raw.githubusercontent.com/Jetpack019/My_Custom_APIs/refs/heads/main/projects/arthaven/ah1.PNG",
+        "https://raw.githubusercontent.com/Jetpack019/My_Custom_APIs/refs/heads/main/projects/arthaven/ah2.PNG"
       ]
     },
     {
@@ -136,9 +136,9 @@
       "tech": ["Vanilla JS", "HTML", "CSS"],
       "link": "https://github.com/yourusername/food-finder",
       "images": [
-        "https://jdraws-online.vercel.app/assets/projectImg/websites/FoodFinder_Website.png",
-        "https://yourcdn.com/images/foodfinder.png",
-        "https://yourcdn.com/images/foodfinder.png"
+        "https://raw.githubusercontent.com/Jetpack019/My_Custom_APIs/refs/heads/main/projects/foodfinder/FoodFinder_Website.png",
+        "https://raw.githubusercontent.com/Jetpack019/My_Custom_APIs/refs/heads/main/projects/foodfinder/fd1.PNG",
+        "https://raw.githubusercontent.com/Jetpack019/My_Custom_APIs/refs/heads/main/projects/foodfinder/fd2.PNG"
       ]
     },
     {
@@ -148,9 +148,9 @@
       "tech": ["Vanilla JS", "HTML", "CSS"],
       "link": "https://github.com/yourusername/happy-eat-in",
       "images": [
-        "https://jdraws-online.vercel.app/assets/projectImg/websites/HappyEatIn_website.png",
-        "https://jdraws-online.vercel.app/assets/projectImg/websites/HappyEatIn_website.png",
-        "https://jdraws-online.vercel.app/assets/projectImg/websites/HappyEatIn_website.png"
+        "https://raw.githubusercontent.com/Jetpack019/My_Custom_APIs/refs/heads/main/projects/happyeat/HappyEatIn_website.png",
+        "https://raw.githubusercontent.com/Jetpack019/My_Custom_APIs/refs/heads/main/projects/happyeat/HPI_1.PNG",
+        "https://raw.githubusercontent.com/Jetpack019/My_Custom_APIs/refs/heads/main/projects/happyeat/HPI_2.PNG"
       ]
     },
     {
@@ -160,9 +160,9 @@
       "tech": ["Vanilla JS", "HTML", "CSS"],
       "link": "https://github.com/yourusername/creative-constructs",
       "images": [
-        "https://jdraws-online.vercel.app/assets/projectImg/websites/Creative_Constructs_website.PNG",
-        "https://yourcdn.com/images/creative.png",
-        "https://yourcdn.com/images/creative.png"
+        "https://raw.githubusercontent.com/Jetpack019/My_Custom_APIs/refs/heads/main/projects/creativeconstructs/Creative_Constructs_website.PNG",
+        "https://raw.githubusercontent.com/Jetpack019/My_Custom_APIs/refs/heads/main/projects/creativeconstructs/Creative_Constructs1.PNG",
+        "https://raw.githubusercontent.com/Jetpack019/My_Custom_APIs/refs/heads/main/projects/creativeconstructs/Creative_Constructs3.PNG"
       ]
     },
     {
@@ -172,9 +172,9 @@
       "tech": ["Vanilla JS", "HTML", "CSS"],
       "link": "https://github.com/yourusername/creative-constructs",
       "images": [
-        "https://jdraws-online.vercel.app/assets/projectImg/websites/OnePiece_website.png",
-        "https://yourcdn.com/images/creative.png",
-        "https://yourcdn.com/images/creative.png"
+        "https://raw.githubusercontent.com/Jetpack019/My_Custom_APIs/refs/heads/main/projects/onepiece/OnePiece_website.png",
+        "https://raw.githubusercontent.com/Jetpack019/My_Custom_APIs/refs/heads/main/projects/onepiece/onepiece1.PNG",
+        "https://raw.githubusercontent.com/Jetpack019/My_Custom_APIs/refs/heads/main/projects/onepiece/onepiece5.PNG"
       ]
     }
   ],
