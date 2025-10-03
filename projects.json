@@ -100,9 +100,9 @@
       "tech": ["React", "CSS", "Bootstrap"],
       "link": "https://jdraws-online.vercel.app/assets/projectImg/websites/cozywear_website.png",
       "images": [
-        "https://yourcdn.com/images/taskmanager.png",
-        "https://yourcdn.com/images/taskmanager.png",
-        "https://yourcdn.com/images/taskmanager.png"
+        "https://raw.githubusercontent.com/Jetpack019/My_Custom_APIs/refs/heads/main/projects/cozywear/main.png",
+        "https://raw.githubusercontent.com/Jetpack019/My_Custom_APIs/refs/heads/main/projects/cozywear/cozy1.PNG",
+        "https://raw.githubusercontent.com/Jetpack019/My_Custom_APIs/refs/heads/main/projects/cozywear/cozy2.PNG"
       ]
     },
     {
@@ -112,9 +112,9 @@
       "tech": ["React", "CSS", "Bootstrap"],
       "link": "https://github.com/yourusername/guitar-play-central",
       "images": [
-        "https://jdraws-online.vercel.app/assets/projectImg/websites/Guitar-bg.PNG",
-        "https://yourcdn.com/images/guitarplaycentral.png",
-        "https://yourcdn.com/images/guitarplaycentral.png"
+        "https://raw.githubusercontent.com/Jetpack019/My_Custom_APIs/refs/heads/main/projects/guitarcentral/Guitar-bg.PNG",
+        "https://raw.githubusercontent.com/Jetpack019/My_Custom_APIs/refs/heads/main/projects/guitarcentral/Guitar-bg2.PNG",
+        "https://raw.githubusercontent.com/Jetpack019/My_Custom_APIs/refs/heads/main/projects/guitarcentral/Guitar-bg3.PNG"
       ]
     },
     {
