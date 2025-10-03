@@ -1,3 +1,24 @@
 {
-  "certificates": [""]
+  "certificates": [
+    "https://raw.githubusercontent.com/Jetpack019/My_Custom_APIs/refs/heads/main/certificates/main-cert1.png",
+    "https://raw.githubusercontent.com/Jetpack019/My_Custom_APIs/refs/heads/main/certificates/main-cert2.png",
+    "https://raw.githubusercontent.com/Jetpack019/My_Custom_APIs/refs/heads/main/certificates/main-cert3.png",
+    "https://raw.githubusercontent.com/Jetpack019/My_Custom_APIs/refs/heads/main/certificates/cert2.jpg",
+    "https://raw.githubusercontent.com/Jetpack019/My_Custom_APIs/refs/heads/main/certificates/cert3.jpg",
+    "https://raw.githubusercontent.com/Jetpack019/My_Custom_APIs/refs/heads/main/certificates/cert4.png",
+    "https://raw.githubusercontent.com/Jetpack019/My_Custom_APIs/refs/heads/main/certificates/cert5.jpg",
+    "https://raw.githubusercontent.com/Jetpack019/My_Custom_APIs/refs/heads/main/certificates/cert6.jpg",
+    "https://raw.githubusercontent.com/Jetpack019/My_Custom_APIs/refs/heads/main/certificates/cert7.jpg",
+    "https://raw.githubusercontent.com/Jetpack019/My_Custom_APIs/refs/heads/main/certificates/cert8.jpg",
+    "https://raw.githubusercontent.com/Jetpack019/My_Custom_APIs/refs/heads/main/certificates/cert9.jpg",
+    "https://raw.githubusercontent.com/Jetpack019/My_Custom_APIs/refs/heads/main/certificates/cert10.jpg",
+    "https://raw.githubusercontent.com/Jetpack019/My_Custom_APIs/refs/heads/main/certificates/cert11.png",
+    "https://raw.githubusercontent.com/Jetpack019/My_Custom_APIs/refs/heads/main/certificates/cert12.png",
+    "https://raw.githubusercontent.com/Jetpack019/My_Custom_APIs/refs/heads/main/certificates/cert13.png",
+    "https://raw.githubusercontent.com/Jetpack019/My_Custom_APIs/refs/heads/main/certificates/cert14.png",
+    "https://raw.githubusercontent.com/Jetpack019/My_Custom_APIs/refs/heads/main/certificates/cert15.png",
+    "https://raw.githubusercontent.com/Jetpack019/My_Custom_APIs/refs/heads/main/certificates/cert16.png",
+    "https://raw.githubusercontent.com/Jetpack019/My_Custom_APIs/refs/heads/main/certificates/cert17.png",
+    "https://raw.githubusercontent.com/Jetpack019/My_Custom_APIs/refs/heads/main/certificates/cert18.png"
+  ]
 }
