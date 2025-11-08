@@ -33,7 +33,7 @@
       "title": "Ssord Net",
       "description": "A website for game forums and streams.",
       "tech": ["React", "TailwindCSS", "Firebase", "Express"],
-      "link": "https://yourportfolio.com",
+      "link": "https://ssordnet-iy2f.vercel.app/",
       "images": [
         "https://raw.githubusercontent.com/Jetpack019/My_Custom_APIs/refs/heads/main/projects/ssordnet/main.png",
         "https://raw.githubusercontent.com/Jetpack019/My_Custom_APIs/refs/heads/main/projects/ssordnet/ssordnet1.png",
@@ -265,3 +265,4 @@
     }
   ]
 }
+
